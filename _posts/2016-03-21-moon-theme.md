@@ -9,9 +9,9 @@ tag:
 comments: true
 ---
 
-
+<figure>
     <p><img src="https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png"></p>
-  
+  </figure>
 
     
 <center>My fisrt project in Java</center>
