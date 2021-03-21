@@ -10,7 +10,7 @@ comments: true
 ---
 
 {% capture images%}
-    https://xorrbs100.github.io/portfolio-tg/assets/img/Main.png
+    https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png
 {% endcapture %}
     
 <center>My fisrt project in Java</center>
