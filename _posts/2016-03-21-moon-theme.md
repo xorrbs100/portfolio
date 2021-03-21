@@ -10,7 +10,7 @@ comments: true
 ---
 
 <figure>
-    <p><img src="https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png"></p>
+    <img src="https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png">
   </figure>
 <center>My fisrt project in Java</center>
      
