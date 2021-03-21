@@ -12,14 +12,8 @@ comments: true
 <figure>
     <p><img src="https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png"></p>
   </figure>
-
-    
 <center>My fisrt project in Java</center>
      
-
-
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      
 ## Used Skills
 * Java
 * JavaGUI
