@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "JspBoard"
+date:   2020-10-21
+excerpt: "JSP를 활용한 MVC2 모델"
+project: true
+tag:
+- java 
+- jsp
+- board
+- join
+- login
+- MVC2
+comments: false
+---
+
+## 풀코드 GitHub 링크
+<https://github.com/xorrbs100/Portfolio_Board>
+
+![mvc2logic](https://user-images.githubusercontent.com/69500105/111900193-7cd36400-8a74-11eb-94d2-2e2f98f2f994.png)
+
+
+
+<center>Jsp MVC2</center>
+
+## Used Skills
+* Java
+* JSP
+* mySQL
+
+
+## 제작동기
+* 웹 개발의 기본인 회원관리 프로그램 연습
+* MVC2 모델을 적용하여 경험 축적 
+* JSP 활용에 대한 경험
+* 코딩 감각을 잃지 않기 위함
+* 스프링 MVC공부 전 Warm Up!
+
+
+## 패키지 구조
+  ![mvc2pac](https://user-images.githubusercontent.com/69500105/111900194-7d6bfa80-8a74-11eb-99a2-fc749b8152e3.png)
+ 
+## 애로사항과 문제점
+* 책을 보며 MVC2 패턴을 익히기 위함이었다.
+* 제네릭 클래스를 자유롭게 다루는데에 어색함을 느꼈다.
+
+
+## 보안점
+* 제네릭 클래스에 대한 공부
+* MVC1 과의 차이는?
+
+
+## 느낀점
+* 객체지향 !!
+* 유지보수에 대한 강점이 확실히 보인다.
+* MyBatis, Spring ComeOn !!!
