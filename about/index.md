@@ -35,6 +35,6 @@ Insanity is doing the same thing over and over again and expecting different res
 
 ##Email : xorrbs100@naver.com
 
-##TELL : +82 1066800918
+##TELL : 01066800918
 
 
