@@ -28,7 +28,7 @@ Insanity is doing the same thing over and over again and expecting different res
 * Jquery
 * Ajax
 
-## Coment
+## Contact Me
 
 * 항상 다양한 의견을 듣고 배우겠습니다.
 
