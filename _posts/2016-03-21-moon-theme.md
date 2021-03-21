@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-    <p><img src='https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png'></p>
+    <p><img src="https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png"></p>
   
 
     
