@@ -1,10 +1,10 @@
 # Site
 title:              I'm Sponge
-bio:                '발전하는 개발자 임택균의 작은공간'
+bio:                '공부하는 개발자 임택균의 작은공간'
 description:        "My first blog for a portfolio"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/p3.png'
+logo:               'assets/img/p.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
