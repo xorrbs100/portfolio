@@ -7,7 +7,7 @@ project: true
 tag:
 - java 
 - javaGUI
-comments: true
+comments: false
 ---
 
 ## 풀코드 GitHub 링크
