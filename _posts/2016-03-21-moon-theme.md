@@ -11,7 +11,7 @@ comments: true
 ---
 
 ## 풀코드 GitHub 링크
-* https://github.com/xorrbs100/Java_GUI
+* <a href='https://github.com/xorrbs100/Java_GUI'></a>
 
 ![Main](https://user-images.githubusercontent.com/69500105/111898422-552ace80-8a69-11eb-8828-fe28d1b56a11.png)
 <center>My fisrt project in Java</center>
