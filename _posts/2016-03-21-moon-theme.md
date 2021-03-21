@@ -9,9 +9,9 @@ tag:
 comments: true
 ---
 
-{% capture images %}
-    https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png
-{% endcapture %}
+
+    <img src='https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png'>
+
     
 <center>My fisrt project in Java</center>
      
