@@ -55,16 +55,16 @@ JToolBar와 JComboBox를 활용하여
 * 스레드 시작 시 많은 양의 메모리가 잡혀 버벅거리는 현상이 생김 
 *  
 ```
-while(n<50) {
-		if(flag==true) {	
-		rt= new RainThread(jp);
-		try{
-			Thread.sleep(300);
-		}catch(InterruptedException e) {
-			e.printStackTrace();
-		}
-		n++;
-		}
+        while(n<50) {
+            if(flag==true) {	
+            rt= new RainThread(jp);
+            try{
+                Thread.sleep(300);
+            }catch(InterruptedException e) {
+                e.printStackTrace();
+            }
+            n++;
+        }
 ```
 * run() 메소드에 생성되는 스레드 개수를 50개로 제한
 
