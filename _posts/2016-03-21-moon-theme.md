@@ -9,13 +9,13 @@ tag:
 comments: true
 ---
 
-{% capture images%}
+{% capture images %}
     https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png
 {% endcapture %}
     
 <center>My fisrt project in Java</center>
      
-Main화면
+
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
