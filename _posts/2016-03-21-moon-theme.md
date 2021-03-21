@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Java"
-date:   2020-10
+date:   2020-10-21
 excerpt: "자바 GUI를 활용한 프로그램 구현"
 project: true
 tag:
