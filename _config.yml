@@ -1,6 +1,6 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Portfolio
+bio:                '공부하는 개발자 임택균의 작은공간'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:  xorrbs100@naver.com
+twitter:            ''
+facebook:           ''
+github-url:         xorrbs100
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          ''
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              ''
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
