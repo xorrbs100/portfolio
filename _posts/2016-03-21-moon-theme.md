@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "Java"
+date:   2020-10
+excerpt: "자바 GUI를 활용한 프로그램 구현"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- java 
 comments: true
 ---
 
