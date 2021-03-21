@@ -13,6 +13,8 @@ comments: true
     <img src="https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png">
   </figure>
 <center>My fisrt project in Java</center>
+![g2](https://user-images.githubusercontent.com/69500105/111898390-1268f680-8a69-11eb-9a70-ac5d3040b4fc.png)
+
      
 ## Used Skills
 * Java
