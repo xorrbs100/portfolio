@@ -6,7 +6,7 @@ date: 2021-03-21
 comments: false
 ---
     
-<center>그저그런 코더가 아닌 개발자를 꿈꾸는 임택균 입니다.</center>
+<center>그저그런 코더가 아닌 인정받는 개발자를 꿈꾸는 임택균 입니다.</center>
 
 ## Features
 * Stick to the basics.
