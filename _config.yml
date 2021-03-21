@@ -4,7 +4,7 @@ bio:                '공부하는 개발자 임택균의 작은공간'
 description:        "My first blog for a portfolio"
 reading_time:       true
 words_per_minute:   200
-logo:               ![p](https://user-images.githubusercontent.com/69500105/111898893-3548da00-8a6c-11eb-8e86-3bafe78af669.jpg)
+logo:               '![p](https://user-images.githubusercontent.com/69500105/111898893-3548da00-8a6c-11eb-8e86-3bafe78af669.jpg)'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
