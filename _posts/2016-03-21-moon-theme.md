@@ -9,12 +9,13 @@ tag:
 comments: true
 ---
 
-<figure>
-    <img src="https://github.com/xorrbs100/portfolio-tg/blob/master/assets/img/Main.png">
-  </figure>
+![Main](https://user-images.githubusercontent.com/69500105/111898422-552ace80-8a69-11eb-8828-fe28d1b56a11.png)
 <center>My fisrt project in Java</center>
-![g2](https://user-images.githubusercontent.com/69500105/111898390-1268f680-8a69-11eb-9a70-ac5d3040b4fc.png)
 
+![g2](https://user-images.githubusercontent.com/69500105/111898390-1268f680-8a69-11eb-9a70-ac5d3040b4fc.png)
+![g3](https://user-images.githubusercontent.com/69500105/111898436-6ecc1600-8a69-11eb-9697-6b2be8e7584a.png)
+![g4](https://user-images.githubusercontent.com/69500105/111898441-6ffd4300-8a69-11eb-9284-360254f94b7b.png)
+![g1](https://user-images.githubusercontent.com/69500105/111898442-712e7000-8a69-11eb-8b88-2f9c0306c186.png)
      
 ## Used Skills
 * Java
