@@ -9,16 +9,13 @@ comments: false
 <center>그저그런 코더가 아닌 개발자를 꿈꾸는 임택균 입니다.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Amazing absorption.
+* Great flexibility.
+* Pursuing development.
+* Crisis into opportunity.
+## Motto
+
+Insanity is doing the same thing over and over again and expecting different results. - Albert Einstein
 
 ## Preview
 
@@ -30,8 +27,4 @@ comments: false
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
