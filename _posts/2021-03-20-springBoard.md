@@ -35,7 +35,7 @@ comments: false
 * MyBatis
 * Script,Jquery
 * Ajax
-
+* racleDB
 
 ## 제작동기
 * 스프링 프레임워크 사용경험 축적
