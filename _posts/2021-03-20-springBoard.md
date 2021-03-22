@@ -61,35 +61,35 @@ comments: false
  ![springboardLogin](https://user-images.githubusercontent.com/69500105/111940649-9dea9200-8b12-11eb-87ab-d1c6f3277556.png)
  <center>로그인후 보드리스트</center>
  
- 
+- 
 ![springjoin](https://user-images.githubusercontent.com/69500105/111940650-9e832880-8b12-11eb-8204-89dee48531f7.png)
 <center>회원가입</center>
 
-
+-
 ![spriongcate](https://user-images.githubusercontent.com/69500105/111940653-9f1bbf00-8b12-11eb-8042-ee1083c48505.png)
 <center>카테고리별 리스트 출력</center>
 
-
+-
 ![testview](https://user-images.githubusercontent.com/69500105/111940654-9f1bbf00-8b12-11eb-9ae5-064056dae769.png)
 <center>비로그인시 게시글 출력</center>
 
 
-
+-
 ![logview](https://user-images.githubusercontent.com/69500105/111940660-a04cec00-8b12-11eb-8df1-e9db42c23935.png)
 <center>로그인시 게시글 출력</center>
 
 
-
+-
 ![loginwrite](https://user-images.githubusercontent.com/69500105/111940659-9fb45580-8b12-11eb-8406-767d78681419.png)
 <center>글작성</center>
 
 
-
+-
 ![update](https://user-images.githubusercontent.com/69500105/111940655-9f1bbf00-8b12-11eb-862d-39e8c16d3bb4.png)
 <center>게시글 업데이트</center>
 
 
-
+-
 ![del](https://user-images.githubusercontent.com/69500105/111940656-9fb45580-8b12-11eb-856c-f9b4ae26dc60.png)
 <center>게시글 삭제</center>
 
