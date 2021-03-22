@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-## Level-1
+## 1
 
 ```
 public class lev_1test {
@@ -62,5 +62,5 @@ public class lev_1test {
 * ..
 
 # 느낀점
-* 좀더 어려운걸로!
+* 내일은 좀더 어려운걸로!
 
