@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Study Java Skills as Programmers"
+title: "프로그래머스-전화번호 목록 문제"
 date: 2020-03-22
 excerpt: "성장 일기"
 tags: [java, programmers, test, study, everyday]
