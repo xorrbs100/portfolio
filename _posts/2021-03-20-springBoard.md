@@ -15,7 +15,7 @@ tag:
 - mybatis
 - jquery
 - script
-- oracleDB
+- OracleDB
 - CRUD
 comments: false
 ---
