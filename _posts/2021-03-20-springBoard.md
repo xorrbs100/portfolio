@@ -94,6 +94,7 @@ comments: false
 ## 보안점
 * 스프링 책과 친해지기
 * serialize-직렬화 를 하니 한글이 제대로 들어갔다!
+ 
 ```
         $j("#submit").on("click",function(){
 			if($j("#boardTitle").val()==""){
@@ -103,6 +104,7 @@ comments: false
 			var param = $frm.serialize();
 			
 ```
+
 * 스프링 부트에 대해 찾아보기
 
 
