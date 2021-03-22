@@ -14,7 +14,7 @@ comments: false
 * Great flexibility.
 * Pursuing development.
 * Crisis into opportunity.
-
+* Aspiration for growth.
 
 ## Motto
 
