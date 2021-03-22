@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "프로그래머스-전화번호 목록 문제"
+title: "프로그래머스"
 date: 2020-03-22
-excerpt: "성장 일기"
+excerpt: "전화번호 목록 문제"
 tags: [java, programmers, test, study, everyday]
 comments: true
 ---
