@@ -25,8 +25,8 @@ comments: false
 
 ![springboard](https://user-images.githubusercontent.com/69500105/111940648-9d51fb80-8b12-11eb-8705-3544c1319250.png)
 
-
 <center>보드리스트</center>  
+
 
 ## Used Skills
 * Java
@@ -36,14 +36,17 @@ comments: false
 * Script,Jquery
 * Ajax
 
+
 ## 제작동기
 * 스프링 프레임워크 사용경험 축적
 * MyBatis 사용경험 축적
 * Script,Jqeury에 익숙해지기 위함
 * 코딩 감각을 잃지 않기 위함
 
+
 ## 제작기간
 * 2021-03-08 ~ 2021-03-15
+
 
 ## 구현 기능
 * 로그인 - 로그인 시 아이디와 비밀번호 확인을 각각하여 어떤값이 틀렸는지를 확인가능
@@ -53,6 +56,7 @@ comments: false
 * 글 작성 , 게시글 업데이트 - 작성자ID를 출력, 수정자 ID를 출력
 * 각 체크박스, 리스트는 따로 저장된 DB에 있는 값을 가져옴
 
+
 ## 패키지 구조
 ![springpac](https://user-images.githubusercontent.com/69500105/111941751-13576200-8b15-11eb-93e8-8565e4a41b42.png)
 
@@ -60,7 +64,7 @@ comments: false
 ## 실행화면
  ![springboardLogin](https://user-images.githubusercontent.com/69500105/111940649-9dea9200-8b12-11eb-87ab-d1c6f3277556.png)
  <center>로그인후 보드리스트</center>  
- 
+
 
 ![springjoin](https://user-images.githubusercontent.com/69500105/111940650-9e832880-8b12-11eb-8204-89dee48531f7.png)
 <center>회원가입</center>  
