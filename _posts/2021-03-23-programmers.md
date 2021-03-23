@@ -40,10 +40,10 @@ class Solution {
 	    		if(answers[i]==person1[i%person1.length]) {
 	    			score1++;
 	    		}
-	    		if(answers[i]==person2[i%8]) {
+	    		if(answers[i]==person2[i%person2.length]) {
 	    			score2++;
 	    		}
-	    		if(answers[i]==person3[i%10]) {
+	    		if(answers[i]==person3[i%person3.length]) {
 	    			score3++;
 	    		}
 	    	}
