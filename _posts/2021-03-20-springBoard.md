@@ -37,6 +37,7 @@ comments: false
 * Script,Jquery
 * Ajax
 * OracleDB
+* Json
 
 ## 제작동기
 * 학원에서 배우지 못한 프레임워크에 대한 필요성을 느낌
