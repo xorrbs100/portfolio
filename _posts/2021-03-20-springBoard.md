@@ -17,7 +17,7 @@ tag:
 - script
 - OracleDB
 - CRUD
-- 
+
 comments: false
 ---
 
@@ -36,7 +36,7 @@ comments: false
 * MyBatis
 * Script,Jquery
 * Ajax
-* racleDB
+* OracleDB
 
 ## 제작동기
 * 학원에서 배우지 못한 프레임워크에 대한 필요성을 느낌
@@ -44,6 +44,7 @@ comments: false
 * MyBatis 사용경험 축적
 * Script,Jqeury에 익숙해지기 위함
 * 코딩 감각을 잃지 않기 위함
+* api 사용법 공부
 
 
 ## 제작기간
@@ -131,3 +132,6 @@ comments: false
 * 프레임 워크가 좋긴좋다.
 * 모르는걸 배우는건 항상 재밌다!
 * 익숙해지자
+
+## 추가예정
+* 네이버 api 로그인 연동
