@@ -7,6 +7,7 @@ project: true
 tag:
 - java 
 - javaGUI
+- project
 comments: false
 ---
 
