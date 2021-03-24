@@ -17,7 +17,7 @@ tag:
 - script
 - OracleDB
 - CRUD
-
+- REST
 comments: false
 ---
 
@@ -135,4 +135,4 @@ comments: false
 
 ## 추가예정
 * 네이버 api 로그인 연동
-* REST형태로 바꿔보기
+
