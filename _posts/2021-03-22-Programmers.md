@@ -1,9 +1,10 @@
 ---
 layout: post
+categories : [programmers, Algorithm]
 title: "Study Java Skills as Programmers"
 date: 2020-03-22
 excerpt: "성장 일기"
-tags: [java, programmers, test, study, everyday]
+tags: [java, programmers, test, study, everyday, Algorithm]
 comments: true
 ---
 
