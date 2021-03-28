@@ -51,6 +51,7 @@ comments: false
 * 2021-03-08 ~ 2021-03-17
 
 
+
 ## 구현 기능
 * 로그인 - 로그인 시 아이디와 비밀번호 확인을 각각하여 어떤값이 틀렸는지를 확인가능
 * 회원가입 - 아이디 중복체크 기능, 필수요소 미입력시 가입불가, 입력 패턴 정규식 함수로 지정, 실시간 비밀번호 일치 불일치 확인
@@ -59,9 +60,12 @@ comments: false
 * 글 작성 , 게시글 업데이트 - 작성자ID를 출력, 수정자 ID를 출력
 * 각 체크박스, 리스트는 따로 저장된 DB에 있는 값을 가져옴
 
+## 업데이트
+* 2021-03-25 네이버 로그인api 구현
+
 
 ## 패키지 구조
-![springpac](https://user-images.githubusercontent.com/69500105/111941751-13576200-8b15-11eb-93e8-8565e4a41b42.png)
+![springpac](https://user-images.githubusercontent.com/69500105/112746484-0beaf980-8fea-11eb-8377-89096c8bd626.png)
 
  
 ## 실행화면
@@ -101,6 +105,17 @@ comments: false
 <center>게시글 삭제</center>  
 
 
+![Loginmain](https://user-images.githubusercontent.com/69500105/112746485-0d1c2680-8fea-11eb-8fa1-18700533df3c.png)
+<center>네이버 로그인 추가</center>
+
+
+![naverLogin](https://user-images.githubusercontent.com/69500105/112746486-0d1c2680-8fea-11eb-890b-fbd2c9d3b869.png)
+<center>네이버 로그인 화면</center>
+
+
+![naverLoginboard](https://user-images.githubusercontent.com/69500105/112746487-0e4d5380-8fea-11eb-8ad2-7fe828b70308.png)
+<center>네이버 로그인후 게시판</center>
+
 
 ---
 
@@ -136,5 +151,5 @@ comments: false
 
 ## 추가예정
 * 글쓰기시 파일첨부
-* 네이버 api 로그인 연동
+
 
