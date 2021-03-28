@@ -28,6 +28,9 @@ Insanity is doing the same thing over and over again and expecting different res
 * MyBatis
 * Jquery
 * Ajax
+* mySQL
+* OracleDB
+
 
 ## Contact Me
 
