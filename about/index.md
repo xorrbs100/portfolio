@@ -26,7 +26,7 @@ Insanity is doing the same thing over and over again and expecting different res
 * Spring
 * Script
 * MyBatis
-* Jquery
+* jQuery
 * Ajax
 * mySQL
 * OracleDB
