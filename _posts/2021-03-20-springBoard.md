@@ -45,7 +45,7 @@ comments: false
 * 학원에서 배우지 못한 프레임워크에 대한 필요성을 느낌
 * 스프링 프레임워크 사용경험 축적
 * MyBatis 사용경험 축적
-* Script,Jqeury에 익숙해지기 위함
+* Script,jQuery에 익숙해지기 위함
 * api 사용법 공부
 * 웹개발에 필요한 기술들을 익히기 위함
 
