@@ -13,7 +13,7 @@ tag:
 - MVC2
 - Spring
 - mybatis
-- jquery
+- jQuery
 - script
 - OracleDB
 - CRUD
@@ -35,7 +35,7 @@ comments: false
 * JSP
 * Spring
 * MyBatis
-* Script,Jquery
+* Script,jQuery
 * Ajax
 * OracleDB
 * Apache-Tomcat 9.0
