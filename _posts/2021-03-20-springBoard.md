@@ -2,7 +2,7 @@
 layout: post
 title:  "SpringBoard"
 date:   2021-03-20
-excerpt: "Spring을 활용한 게시판CRUD+회원가입"
+excerpt: "Spring을 활용한 게시판"
 project: true
 tag:
 - java 
@@ -23,7 +23,7 @@ comments: false
 ---
 
 ## 풀코드 GitHub 링크
-<https://github.com/xorrbs100/SpringBoard>
+<https://github.com/xorrbs100/SpringBoard0>
 
 ![springboard](https://user-images.githubusercontent.com/69500105/111940648-9d51fb80-8b12-11eb-8705-3544c1319250.png)
 
@@ -154,6 +154,7 @@ comments: false
 * 프레임 워크가 좋긴좋다.
 * 모르는걸 배우는건 항상 재밌다!
 * 익숙해지자
+
 
 ## 추가예정
 * 글쓰기시 파일첨부
