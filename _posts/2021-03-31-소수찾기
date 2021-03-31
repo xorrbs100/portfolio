@@ -1,0 +1,121 @@
+---
+layout: post
+title: "프로그래머스"
+date: 2020-03-31
+excerpt: "주식가격"
+tags: [java, programmers, test, study, everyday, Algorithm]
+comments: true
+---
+
+## 문제
+
+한자리 숫자가 적힌 종이 조각이 흩어져있습니다. 흩어진 종이 조각을 붙여 소수를 몇 개 만들 수 있는지 알아내려 합니다.
+
+각 종이 조각에 적힌 숫자가 적힌 문자열 numbers가 주어졌을 때, 
+종이 조각으로 만들 수 있는 소수가 몇 개인지 return 하도록 solution 함수를 완성해주세요.
+
+제한사항
+numbers는 길이 1 이상 7 이하인 문자열입니다.
+numbers는 0~9까지 숫자만으로 이루어져 있습니다.
+"013"은 0, 1, 3 숫자가 적힌 종이 조각이 흩어져있다는 의미입니다.
+
+
+## 풀이
+* 주어진 문자열 길이만큼 완전탐색을 실행
+* 조합으로 얻어진 숫자를 소수 판별
+* 해시셋으로 중복 방지
+
+
+```
+String[] map;
+    String[] result;
+    boolean[] visit;
+    HashSet<Integer> list;
+	 public int solution(String numbers) {
+	        
+	        int cnt =0;
+	        visit=new boolean[numbers.length()];
+	        map = new String[numbers.length()];
+	        map=numbers.split("");
+	        list= new HashSet<>();
+	        for(int i=1;i<=numbers.length();i++) {
+	        	result = new String[i];
+	        	cycle(0,i, numbers.length());
+	        }
+	        
+	        return list.size();
+	    }
+	 public void cycle(int start, int end, int length) {
+		 if (start==end) {
+			 findPrime();
+		 }else {
+			 for(int i=0; i<length; i++) {
+				 if(!visit[i]) {
+					 visit[i]=true;
+					 result[start]=map[i];
+					 cycle(start+1,end,length);
+					 visit[i]=false;
+				 }
+			 }
+		 }
+	 }
+	 public void findPrime() {
+		 //숫자로 변환
+		 String str="";
+		 for(int i=0; i<result.length;i++) {
+			 str+= result[i];
+		 }
+		 int num = Integer.parseInt(str);
+		 //예외처리
+		 if(num==1||num==0) return;
+		 //소수 인지 검사
+		 boolean flag = false;
+		 for(int i=2; i<=Math.sqrt(num);i++) {
+			 if(num%i ==0) {
+				 flag = true;
+			 }
+		 }
+		 if(!flag)
+			 list.add(num);
+	 }
+```
+
+
+## 참고
+* 먼저 짝수를 거르고 필요한 배열만 골라서 사용
+
+
+```
+public int solution(String numbers) {
+        HashSet<Integer> set = new HashSet<>();
+        permutation("", numbers, set);
+        int count = 0;
+        while(set.iterator().hasNext()){
+            int a = set.iterator().next();
+            set.remove(a);
+            if(a==2) count++;
+            if(a%2!=0 && isPrime(a)){
+                count++;
+            }
+        }        
+        return count;
+    }
+
+    public boolean isPrime(int n){
+        if(n==0 || n==1) return false;
+        for(int i=3; i<=(int)Math.sqrt(n); i+=2){
+            if(n%i==0) return false;
+        }
+        return true;
+    }
+
+        public void permutation(String prefix, String str, HashSet<Integer> set) {
+        int n = str.length();
+        //if (n == 0) System.out.println(prefix);
+        if(!prefix.equals("")) set.add(Integer.valueOf(prefix));
+        for (int i = 0; i < n; i++)
+          permutation(prefix + str.charAt(i), str.substring(0, i) + str.substring(i+1, n), set);
+
+    }
+```
+
