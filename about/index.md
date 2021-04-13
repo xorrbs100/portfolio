@@ -35,8 +35,8 @@ Insanity is doing the same thing over and over again and expecting different res
 ## Contact Me
 
 * 항상 다양한 의견을 듣고 배우겠습니다.
-    -Email : <xorrbs100@naver.com>
-    -TELL : 010-6680-0918
+-Email : <xorrbs100@naver.com>
+-TELL : 010-6680-0918
 
 
 <hr/>
